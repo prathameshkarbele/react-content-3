@@ -1,0 +1,13 @@
+.cardData {
+    border: 5px solid rgb(236, 224, 238);
+    width: 38%;
+    padding: 30px;
+    margin: 20px;
+    display: inline-block;
+    border-radius: 10px;
+    background-color: rgb(127, 12, 156);
+  }
+  .btn{
+    background-color: rgb(9, 125, 226);
+    border: 2px solid white;
+  }

@@ -1,0 +1,12 @@
+.App {
+    /* text-align: center; */
+    min-height: 100vh;
+    background-color: #282c34;
+    color: white;
+    padding: 25px 0;
+  }
+  
+  input::placeholder {
+    color: rgba(255, 255, 255, 0.5) !important;
+  }
+  
